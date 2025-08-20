@@ -65,6 +65,8 @@
   <ul>
     <li>Python</li>
     <li>Pandas</li>
+    <li>Matplotlib</li>
+    <li>Plotly</li>
    
   </ul>
 
