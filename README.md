@@ -65,7 +65,7 @@
   <ul>
     <li>Python</li>
     <li>Pandas</li>
-    <li>Jupyter Notebook (opcional)</li>
+   
   </ul>
 
   <h2>📦 Como Executar Localmente</h2>
