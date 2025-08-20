@@ -1,6 +1,16 @@
-<h1 align="center">"Imersão ALURA"</h1>
+<h1 align="center">IMERS-O-ALURA</h1>
 
-<p align="center">🚀 Projeto desenvolvido durante a Imersão de Dados da Alura</p>
+<p align="center">
+  🚀 Projeto desenvolvido durante a Imersão de Dados da Alura
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-green?logo=plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit" />
+  <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" />
+</p>
 
 ---
 
