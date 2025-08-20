@@ -1,4 +1,4 @@
-<h1 align="center">IMERS-O-ALURA</h1>
+<h1 align="center">"Imersão Dados Com Python ALURA"</h1>
 
 <p align="center">🚀 Projeto desenvolvido durante a Imersão de Dados da Alura</p>
 
